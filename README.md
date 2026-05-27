@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**PranjaliMandavi/PranjaliMandavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Pranjali Mandavi! 🔍
 
-Here are some ideas to get you started:
+Exploring the intersection of data, security, and investigation. M.Sc. candidate at NFSU in Digital Forensics & Information Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+*   Currently pursuing my Master's at **National Forensic Sciences University (NFSU)**.
+*   Deeply interested in digital forensics, memory analysis, and building tools for security automation.
+*   Passionate about the practical application of technology in law enforcement and investigative work.
+*   Continuous learner striving to bridge the gap between technical analysis and investigative integrity.
+
+### Technical Interests
+*  **Forensics**: Memory Forensics (Volatility 2 & 3), File System Forensics, Autopsy, FTK.
+*  **Security & Network Audits:** Nmap, Burp Suite, Vulnerability Assessment.
+*  **Automation:** Python for security (Pandas, Scikit-learn, TensorFlow).
+
+### Credentials & Memberships
+*   **Certifications:** Fortinet NSE 1, 2, and 3.
+*   **Membership:** Active OWASP Member (2026-2027).
+
+---
+*Looking for opportunities to apply forensic methodology to real-world challenges.*
